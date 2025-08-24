@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+as+a+Thinking+Exoskeleton;Modular+Prompts+%7C+Feature-Driven+Docs;Collaborative+Coding+with+Gemini+CLI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3CDB67&center=true&vCenter=true&width=500&lines=Hey,+I'm+Brody;Full-Stack+Developer;AI+Collaborator" alt="Typing SVG" />
 </p>
+
 
 # 👋 Hey, I'm Brody
 
