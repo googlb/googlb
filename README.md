@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3CDB67&center=true&vCenter=true&width=500&lines=Hey,+I'm+Brody;Full-Stack+Developer;AI+Collaborator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3CDB67¢er=true&vCenter=true&width=500&lines=Hey,+I'm+Brody;Full-Stack+Developer;AI+Collaborator" alt="Typing SVG" />
 </p>
 
 
@@ -12,6 +12,7 @@
 
 ## 🧩 Featured Projects
 
+- 🚀 [next-shadcn-starter](https://github.com/googlb/next-shadcn-starter): Opinionated full-stack starter with Next.js 14, Shadcn UI, Prisma & Auth.js 
 - 🎧 [listen_flow](https://github.com/googlb/listen_flow): Flutter + Clean Architecture for interactive media  
 - 🔌 [next-websocket](https://github.com/googlb/next-websocket): STOMP over WebSocket with Shadcn UI  
 - 📝 [googlb.github.io](https://googlb.github.io): My blog on AI workflows, modular design, and dev philosophy
