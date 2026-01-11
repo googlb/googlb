@@ -13,10 +13,12 @@
 
 ## 🧩 Featured Projects
 
-- 🚀 [next-shadcn-starter](https://github.com/googlb/next-shadcn-starter): Opinionated full-stack starter with Next.js 14, Shadcn UI, Prisma & Auth.js 
+- 🚀 [next-shadcn-starter](https://github.com/googlb/next-shadcn-starter): Opinionated full-stack starter with Next.js 14, Shadcn UI, Prisma & Auth.js  
+- 🧠 [fastapi-best-practices-starter](https://github.com/googlb/fastapi-best-practices-starter): Production-grade FastAPI starter with DDD, async SQLModel, and JWT auth  
 - 🎧 [listen_flow](https://github.com/googlb/listen_flow): Flutter + Clean Architecture for interactive media  
 - 🔌 [next-websocket](https://github.com/googlb/next-websocket): STOMP over WebSocket with Shadcn UI  
 - 📝 [googlb.github.io](https://googlb.github.io): My blog on AI workflows, modular design, and dev philosophy
+
 
 ---
 
