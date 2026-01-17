@@ -42,7 +42,8 @@
 
 ## 📊 GitHub Stats
 
-![Brody's GitHub stats]([https://github-readme-stats.vercel.app/api?username=googlb&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=googlb&show_icons=true&theme=tokyonight&cache_seconds=60)
+![Brody's GitHub stats](https://github-readme-stats.vercel.app/api?username=googlb&show_icons=true&theme=tokyonight&cache_seconds=60)
+
 
 ---
 
